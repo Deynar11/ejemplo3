@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Aplicacion Ejemplo</string>
+
+<string name="titulo1">Seleccione intereses</string>
+    <string name="titulo2">Selccione su genero</string>
+
+    <string name="futbol">Futbol</string>
+    <string name="volley">Volley</string>
+    <string name="futsal">Futsal</string>
+    <string name="basquet">Basquet</string>
+    <string name="otros">Otros</string>
+
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="otros1">Otros</string>
+
+
+
+</resources>
